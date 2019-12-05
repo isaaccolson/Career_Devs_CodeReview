@@ -1,0 +1,5 @@
+/Users/isaaccolson/Projects/Yatzee/Yatzee/bin/Debug/Yatzee.exe
+/Users/isaaccolson/Projects/Yatzee/Yatzee/bin/Debug/Yatzee.pdb
+/Users/isaaccolson/Projects/Yatzee/Yatzee/obj/Debug/Yatzee.csprojAssemblyReference.cache
+/Users/isaaccolson/Projects/Yatzee/Yatzee/obj/Debug/Yatzee.exe
+/Users/isaaccolson/Projects/Yatzee/Yatzee/obj/Debug/Yatzee.pdb
