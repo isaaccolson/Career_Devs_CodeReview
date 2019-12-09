@@ -1,0 +1,5 @@
+/Users/isaaccolson/Projects/HighLow/HighLow/obj/Debug/HighLow.csprojAssemblyReference.cache
+/Users/isaaccolson/Projects/HighLow/HighLow/bin/Debug/HighLow.exe
+/Users/isaaccolson/Projects/HighLow/HighLow/bin/Debug/HighLow.pdb
+/Users/isaaccolson/Projects/HighLow/HighLow/obj/Debug/HighLow.exe
+/Users/isaaccolson/Projects/HighLow/HighLow/obj/Debug/HighLow.pdb
