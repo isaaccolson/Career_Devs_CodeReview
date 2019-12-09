@@ -1,0 +1,5 @@
+/Users/isaaccolson/Projects/Go_Fish/Go_Fish/bin/Debug/Go_Fish.exe
+/Users/isaaccolson/Projects/Go_Fish/Go_Fish/bin/Debug/Go_Fish.pdb
+/Users/isaaccolson/Projects/Go_Fish/Go_Fish/obj/Debug/Go_Fish.csprojAssemblyReference.cache
+/Users/isaaccolson/Projects/Go_Fish/Go_Fish/obj/Debug/Go_Fish.exe
+/Users/isaaccolson/Projects/Go_Fish/Go_Fish/obj/Debug/Go_Fish.pdb
